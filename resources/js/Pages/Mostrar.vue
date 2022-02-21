@@ -8,10 +8,7 @@
             <div class="max-w-7x1 mx-auto sm:px-6 lg:px-8">
                 <div class="bg-white overflow-hidden shadow-x1 sm:rounded-lg">
                     
-                    <inertia-link :href="route('produtos.create')" class="flex-shrink-0 bg-blue-500 text-white text-base font-semibold py-2 px-4 rounded-lg shadow-md hover:bg-blue-800 focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-blue-200" type="button">
-                        Novo
-                    </inertia-link>  
-
+                    
                      <!-- Formulário para envio de arquivos -->         
                     <div class="bg-white overflow-hidden shadow-x1 sm:rounded-lg">
                         
