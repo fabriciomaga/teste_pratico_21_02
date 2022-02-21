@@ -51,6 +51,10 @@ class ProdutoController extends Controller
         Produto::create($request->all());
         return Redirect::route('produtos.index');
 
+        if ($request->file('filejson')->isValid()){
+            dd($request->file('filejson')->storeAs('Produtos'));
+        }
+
         
     }
 
