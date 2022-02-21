@@ -1,0 +1,19 @@
+[{
+    "titulo": "Brown eggs",
+    "tipo": "dairy",
+    "descricao": "Raw organic brown eggs in a basket",
+    "preco": 28.1,
+    "avaliacao": 4
+   }, {
+    "title": "Sweet fresh stawberry",
+    "tipo": "fruit",
+    "descricao": "Sweet fresh stawberry on the wooden table",
+    "preco": 29.45,
+    "avaliacao": 4
+   }, {
+    "title": "Asparagus",
+    "tipo": "vegetable",
+    "descricao": "Asparagus with ham on the wooden table",
+    "preco": 18.95,
+    "avaliacao": 3
+   }]
